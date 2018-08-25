@@ -3,6 +3,7 @@ import "./App.css";
 import Form from "./components/form";
 import Recipes from "./components/recipes";
 
+// Api key for RecipeAPI; include in link
 const API_KEY = "03debc5223bf2be79373472cf17d7d6d";
 
 class App extends Component {
